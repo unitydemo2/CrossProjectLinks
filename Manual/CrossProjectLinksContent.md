@@ -1,23 +1,47 @@
-#CrossProjectLinksContent
-[NumberA](ScriptRef:ClassProperty-NumberA.html)
-[NumberB](ScriptRef:ClassProperty-NumberB.html)
-[NumberC](ScriptRef:ClassProperty-NumberC.html)
-[Lines](ScriptRef:DiffPaneModel-Lines.html)
-[ChangeType](ScriptRef:ChangeType.html)
-[Type](ScriptRef:DiffPiece-Type.html)
-[Position](ScriptRef:DiffPiece-Position.html)
-[Text](ScriptRef:DiffPiece-Text.html)
-[SubPieces](ScriptRef:DiffPiece-SubPieces.html)
-[Group](ScriptRef:DiffPiece-Group.html)
-[Conflict](ScriptRef:DiffPiece-Conflict.html)
-[BorderStyle](ScriptRef:DiffPiece-BorderStyle.html)
-[DiffPiece](ScriptRef:DiffPiece-DiffPiece.html)
-[DiffPiece](ScriptRef:DiffPiece-DiffPiece.html)
-[OldText](ScriptRef:SideBySideDiffModel-OldText.html)
-[NewText](ScriptRef:SideBySideDiffModel-NewText.html)
-[MergedText](ScriptRef:SideBySideDiffModel-MergedText.html)
-[SideBySideDiffModel](ScriptRef:SideBySideDiffModel-SideBySideDiffModel.html)
-[BuildDiffModel](ScriptRef:IInlineDiffBuilder-BuildDiffModel.html)
-[InlineDiffBuilder](ScriptRef:InlineDiffBuilder-InlineDiffBuilder.html)
-[BuildDiffModel](ScriptRef:InlineDiffBuilder-BuildDiffModel.html)
-[BuildDiffModel](ScriptRef:InlineDiffBuilder-BuildDiffModel.html)
+ 
+
+# CrossProjectLinksContent 
+
+ NumberA 
+
+ NumberB 
+
+ NumberC 
+
+ Lines 
+
+ ChangeType 
+
+ Type 
+
+ Position 
+
+ Text 
+
+ SubPieces 
+
+ Group 
+
+ Conflict 
+
+ BorderStyle 
+
+ DiffPiece 
+
+ DiffPiece 
+
+ OldText 
+
+ NewText 
+
+ MergedText 
+
+ SideBySideDiffModel 
+
+ BuildDiffModel 
+
+ InlineDiffBuilder 
+
+ BuildDiffModel 
+
+ BuildDiffModel
